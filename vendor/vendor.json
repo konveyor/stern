@@ -65,7 +65,7 @@
 			"revisionTime": "2018-07-19T16:29:00Z"
 		},
 		{
-			"checksumSHA1": "6ZxSmrIx3Jd15aou16oG0HPylP4=",
+			"checksumSHA1": "XwDm1VMyZA/MLAK4Fst0yI7lyCE=",
 			"origin": "k8s.io/api/vendor/github.com/gogo/protobuf/proto",
 			"path": "github.com/gogo/protobuf/proto",
 			"revision": "8be2a0b24ed0dac9cfc1ac2d987ea16cfcdbecb6",
@@ -85,7 +85,7 @@
 			"revisionTime": "2016-01-25T20:49:56Z"
 		},
 		{
-			"checksumSHA1": "Pyou8mceOASSFxc7GeXZuVdSMi0=",
+			"checksumSHA1": "XfGj+QEoEko4spipiaGXCcCcJfA=",
 			"origin": "k8s.io/client-go/vendor/github.com/golang/protobuf/proto",
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "739dd8f9d4801eb23e2bc43423c0b4acaaded29a",
@@ -120,7 +120,7 @@
 			"revisionTime": "2018-07-19T21:38:58Z"
 		},
 		{
-			"checksumSHA1": "R1im0duOX7cXUsuKmD4t9hSlV6o=",
+			"checksumSHA1": "MgOjBhN2mexD1bmX1jLMJmpJqss=",
 			"origin": "k8s.io/client-go/vendor/github.com/google/btree",
 			"path": "github.com/google/btree",
 			"revision": "739dd8f9d4801eb23e2bc43423c0b4acaaded29a",
@@ -303,7 +303,7 @@
 			"revisionTime": "2018-07-19T21:38:58Z"
 		},
 		{
-			"checksumSHA1": "WoxJyQYRAnczy053isRuGc0ckWQ=",
+			"checksumSHA1": "8NH1ScIpNBdblhpXJt2Acqgnyks=",
 			"origin": "k8s.io/client-go/vendor/golang.org/x/oauth2/google",
 			"path": "golang.org/x/oauth2/google",
 			"revision": "739dd8f9d4801eb23e2bc43423c0b4acaaded29a",
@@ -331,7 +331,7 @@
 			"revisionTime": "2018-07-19T21:38:58Z"
 		},
 		{
-			"checksumSHA1": "QaSqAbf/wrmqHcSUCQHeiOgmyHQ=",
+			"checksumSHA1": "hEYaWw+8NP4vlt/idQaUfg3cWdM=",
 			"origin": "github.com/fatih/color/vendor/golang.org/x/sys/unix",
 			"path": "golang.org/x/sys/unix",
 			"revision": "2d684516a8861da43017284349b7e303e809ac21",
@@ -359,14 +359,14 @@
 			"revisionTime": "2018-07-19T16:29:00Z"
 		},
 		{
-			"checksumSHA1": "DgdG/s+OwD97w4oDlJD7hutFtJA=",
+			"checksumSHA1": "/0MrjZUG/ki1VMQ3TvayIek1i9g=",
 			"origin": "k8s.io/apimachinery/vendor/golang.org/x/text/unicode/bidi",
 			"path": "golang.org/x/text/unicode/bidi",
 			"revision": "594fc14b6f143d963ea2c8132e09e73fe244b6c9",
 			"revisionTime": "2018-07-19T16:29:00Z"
 		},
 		{
-			"checksumSHA1": "J0CU0pconUgeeVe8cRXFdVrah/g=",
+			"checksumSHA1": "q1floL5IMtGL7LIIfC790A0v6Ao=",
 			"origin": "k8s.io/apimachinery/vendor/golang.org/x/text/unicode/norm",
 			"path": "golang.org/x/text/unicode/norm",
 			"revision": "594fc14b6f143d963ea2c8132e09e73fe244b6c9",
